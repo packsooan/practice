@@ -1,16 +1,16 @@
-#해달 실습1
+#컵라면 끓이는 법
 
-## 제목2
-### 제목3
 
-_굵게_ __기울기__
 
-`강조`
 
-1. 첫 항목
-2. 둘째 항목
 
-+ 순서 없는 것
 
-[링크1](https://www.google.com)  
-![연어](https://lh3.googleusercontent.com/proxy/3jE24Gbk5Ezk-WlT6ByaS6di3AgTI5-DCxLrONGswNq9SH6dhoh-TwF9dYOLcmVlp_k1lpb-aNXu046Rcb5kCslSzyP54-csJxeDHDmAlYJ-1jAgBQc)
+1. 라면뚜껑을 완전 열고 스프를 넣는다
+2. 뜨거운 물을 선까지 넣는다
+3. 뚜껑을 덮고 3분 기다린다
+4. 뚜껑을 열고 먹는다
+
+
+
+![라면](https://lh3.googleusercontent.com/proxy/6JiTDn7VKPizpt0SkAV2OJ5w2P7SjfVIK8uPZOuw7ibL5ROKQEo8uE8wCOdi9cr5simdHW3nc0_yfu_pSM3oqJRZdRtz7P546ThVmGUZOnstjNnv1p5TEL0)
+![라면1](https://lh3.googleusercontent.com/proxy/pA0VOOqxfF-e88moo7a5Z1JtkIcnODn8mc4D9fzrnXkEj0-f2A1aMdTa0mRj_-L9Pl78nu4_6GFRbAUIkVDW8OiOxNL4JA3V8tLM1TJI2lgYAU1st9o)
